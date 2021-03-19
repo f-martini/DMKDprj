@@ -16,8 +16,7 @@
 - *xtrain_obfuscated.txt:* dataset of obfuscated textual instances used for the second project.
 - *ytrain.txt:* dataset of labels used for the second project (associated with the previous dataset).
 
-#### NB:
-In order to train a new set of classifiers with a sampled datset with 50% (0.5) of instances of the original dataset is necessary to delete or rename:
+**NB:** In order to train a new set of classifiers with a sampled datset with 50% (0.5) of instances of the original dataset is necessary to delete or rename:
 - *res0.5.csv*
 - *test_smpl0.5.csv* (optional)
 - *train_smpl0.5.csv* (optional)
